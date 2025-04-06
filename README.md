@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou o Gabriel Dias!
 
 👋 Olá! Eu sou Gabriel Dias, tenho 24 anos e estou cursando Sistemas de Informação. 
+
 💻 Sou desenvolvedor web com experiência em PHP e JavaScript.
 
 <div>
